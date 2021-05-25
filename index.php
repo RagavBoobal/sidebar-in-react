@@ -1,3 +1,3 @@
 <?php
-include_once("src/App.js");
+include_once("App.js");
 ?>
