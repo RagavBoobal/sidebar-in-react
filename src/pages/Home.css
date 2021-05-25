@@ -1,0 +1,14 @@
+.q1{
+    border : 1px red;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color:#060b26;
+  color : white;
+  padding : 30px;
+  font-size: 20px;
+  font-weight :500;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
